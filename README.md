@@ -9,8 +9,7 @@
 
 - NIPS2018poster.pdf
 
-> The poster presented at [NeurIPS2018]
-(https://proceedings.neurips.cc/paper/2018/hash/f6e794a75c5d51de081dbefa224304f9-Abstract.html).
+> The poster presented at [NeurIPS2018](https://proceedings.neurips.cc/paper/2018/hash/f6e794a75c5d51de081dbefa224304f9-Abstract.html).
 
 - NetSci2018_Poster.pdf
 
